@@ -22,3 +22,6 @@ print("Numero de puntos es: {}".format(n_punto))
 print("Numero de comas es: {}".format(n_coma))
 print("Numero de espacios es: {}".format(n_espacio))
 
+
+
+
