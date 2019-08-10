@@ -15,5 +15,3 @@ for indice in range(len(numeros)):
             numeros[indice] += "Buzz"
 
 print(numeros)
-
-
